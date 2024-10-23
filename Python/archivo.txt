@@ -1,0 +1,16 @@
+Introducción a Python
+
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Se destaca por su simplicidad y legibilidad, lo que lo convierte en una excelente opción tanto para principiantes como para programadores experimentados.
+
+Características principales de Python:
+
+Sintaxis sencilla: Python utiliza una sintaxis clara y concisa, lo que facilita la escritura y comprensión del código.
+
+Multiparadigma: Permite programación orientada a objetos, programación imperativa y programación funcional.
+
+Extensa biblioteca estándar: Python cuenta con una amplia colección de módulos y paquetes que facilitan tareas comunes, como manejo de archivos, procesamiento de datos y creación de interfaces gráficas.
+
+Comunidad activa: Python tiene una gran comunidad de desarrolladores que contribuyen constantemente con bibliotecas, frameworks y recursos de aprendizaje.
+
+Aplicaciones diversas: Python se utiliza en diversos campos, incluyendo desarrollo web, análisis de datos, inteligencia artificial, automatización de tareas y más.
+
